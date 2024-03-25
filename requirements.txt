@@ -1,0 +1,17 @@
+Flask==0.12.2
+pymessenger==0.0.7.0
+gunicorn==19.6.0
+emoji
+requests
+pandas
+yahoo_fin
+pandas_datareader
+numpy
+nsetools==1.0.11
+nltk
+preprocessor
+beautifulsoup4
+twitter_scraper
+tqdm
+datetime
+pathlib
